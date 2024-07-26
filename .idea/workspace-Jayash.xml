@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="9d7de88d-5dab-4ac8-a6b4-e0dca98075ba" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="package-info" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 8
+}</component>
+  <component name="ProjectId" id="2jMOVo814qo1ybrchR7URVTqoPH" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.Program1.executor": "Run",
+    "Application.creating_exception_class.executor": "Run",
+    "Application.final_variable.executor": "Run",
+    "Application.finally_block.executor": "Run",
+    "Application.firstProgram.executor": "Run",
+    "Application.hierarchical_inheritance.executor": "Run",
+    "Application.inner_class.executor": "Run",
+    "Application.interfaceExample1.executor": "Run",
+    "Application.interfaceExample2.executor": "Run",
+    "Application.interfaceExample3.executor": "Run",
+    "Application.interfaceExample4.executor": "Run",
+    "Application.interface_in_multInheritance1.executor": "Run",
+    "Application.interface_in_multInheritance2.executor": "Run",
+    "Application.method_overloading.executor": "Run",
+    "Application.method_overriding.executor": "Run",
+    "Application.multi_level_inheritance.executor": "Run",
+    "Application.multiple_catch_block.executor": "Run",
+    "Application.params_constructor.executor": "Run",
+    "Application.single_inheritance.executor": "Run",
+    "Application.static_method.executor": "Run",
+    "Application.static_variables.executor": "Run",
+    "Application.thread_extend.executor": "Run",
+    "Application.thread_implement.executor": "Run",
+    "Application.thread_priorities.executor": "Run",
+    "Application.thread_synchronization.executor": "Run",
+    "Application.throw_block.executor": "Run",
+    "Application.throws_block.executor": "Run",
+    "Application.try_catch.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "kotlin-language-version-configured": "true",
+    "settings.editor.selected.configurable": "preferences.pluginManager"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="9d7de88d-5dab-4ac8-a6b4-e0dca98075ba" name="Changes" comment="" />
+      <created>1721193507241</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1721193507241</updated>
+    </task>
+    <servers />
+  </component>
+</project>
