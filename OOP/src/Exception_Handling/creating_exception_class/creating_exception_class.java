@@ -1,11 +1,5 @@
 package Exception_Handling.creating_exception_class;
 
-class InvalidAgeException extends Exception{
-    public  InvalidAgeException(String s){
-        super(s);
-    }
-}
-
 public class creating_exception_class {
     static void check_age(int age) throws InvalidAgeException{
         if(age < 18){

@@ -1,6 +1,6 @@
 // Program to read an input string from the user and write the vowels of that string in VOWEL.txt and consonants in CONSONANT.txt
 
-package File_Handling.Program_3;
+package File_Handling.Program_File_Reader_Writer;
 import java.util.Scanner;
 import java.io.*;
 
@@ -33,7 +33,7 @@ public class Program_3 {
         vowel.close();
         consonant.close();
 
-        // close the Scanner object
+        // close the Scanner
         s.close();
     }
 }

@@ -1,4 +1,4 @@
-package File_Handling;
+package File_Handling.File_Reader;
 import java.io.*;
 
 public class file_reader {

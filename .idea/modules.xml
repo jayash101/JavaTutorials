@@ -5,6 +5,7 @@
       <module fileurl="file://$PROJECT_DIR$/Fundamentals/Fundamentals.iml" filepath="$PROJECT_DIR$/Fundamentals/Fundamentals.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/Java Tutorials.iml" filepath="$PROJECT_DIR$/.idea/Java Tutorials.iml" />
       <module fileurl="file://$PROJECT_DIR$/OOP/OOP.iml" filepath="$PROJECT_DIR$/OOP/OOP.iml" />
+      <module fileurl="file://$PROJECT_DIR$/UI with Swing/UI with Swing.iml" filepath="$PROJECT_DIR$/UI with Swing/UI with Swing.iml" />
     </modules>
   </component>
 </project>

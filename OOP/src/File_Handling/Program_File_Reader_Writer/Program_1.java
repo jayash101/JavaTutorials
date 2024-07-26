@@ -1,6 +1,6 @@
 // Program to read from and write to files
 
-package File_Handling;
+package File_Handling.Program_File_Reader_Writer;
 import java.io.*;
 
 public class Program_1 {

@@ -1,9 +1,7 @@
 // Program to duplicate each character in a text file and write the output in a separate file using character stream. (Example: bit to bbiitt)
 
-package File_Handling;
-import java.io.FileReader;
-import java.io.FileWriter;
-import java.util.*;
+package File_Handling.Program_File_Reader_Writer;
+import java.io.*;
 
 public class Program_2 {
     public static void main(String[] args) throws Exception{

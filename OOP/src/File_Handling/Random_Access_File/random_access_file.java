@@ -1,7 +1,5 @@
-package File_Handling;
+package File_Handling.Random_Access_File;
 import java.io.*;
-import java.util.Random;
-import java.util.RandomAccess;
 
 public class random_access_file {
     public static void main(String[] args) {

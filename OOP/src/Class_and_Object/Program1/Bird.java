@@ -1,4 +1,4 @@
-package Class_and_Object;
+package Class_and_Object.Program1;
 
 class Bird{
     public void fly(){
