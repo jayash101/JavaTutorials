@@ -13,7 +13,7 @@ public class Input_Dialog_Box extends JOptionPane {
         int number_2 = Integer.parseInt(second_number);
         int sum = number_1 + number_2;
 
-        // JInputDialog
+        // Show Message Dialog
         JOptionPane.showMessageDialog(this, "Your sum: " + sum, "Sum of two integers", JOptionPane.PLAIN_MESSAGE);
         // params(parent_frame, message, title, message_type)
 

@@ -19,7 +19,7 @@ public class ScrollPane extends JFrame {
                 ScrollPaneConstants.VERTICAL_SCROLLBAR_ALWAYS,
                 ScrollPaneConstants.HORIZONTAL_SCROLLBAR_ALWAYS);
 
-        // Add JScrollPanel
+        // Add JScrollPane
         this.add(scroll_pane);
     }
 }

@@ -26,10 +26,19 @@ public class PopupMenu extends JFrame {
         popup_menu.add(paste);
 
         // Mouse click event (will be explored later in the chapter)
-        this.addMouseListener(new MouseAdapter() {
+        this.addMouseListener(new MouseAdapter(){
             @Override
-            public void mouseClicked(MouseEvent e) {
-                popup_menu.show(new JFrame(), e.getX(), e.getY());
+            public void mousePressed(MouseEvent e) {
+                if (e.isPopupTrigger()) {
+                    popup_menu.show(e.getComponent(), e.getX(), e.getY());
+                }
+            }
+
+            @Override
+            public void mouseReleased(MouseEvent e) {
+                if (e.isPopupTrigger()) {
+                    popup_menu.show(e.getComponent(), e.getX(), e.getY());
+                }
             }
         });
 
